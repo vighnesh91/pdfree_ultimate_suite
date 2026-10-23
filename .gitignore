@@ -1,0 +1,17 @@
+```text
+# Dependencies / Logs / OS Files
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Environment & IDE configurations
+.vscode/
+.idea/
+*.env
+*.log
+
+# Build / Distribution artifacts if applicable
+dist/
+build/
